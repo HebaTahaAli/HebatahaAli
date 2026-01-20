@@ -8,7 +8,7 @@ Currently focusing on **modern frontend development** and improving my real-worl
 ---
 
 ### 👩‍💻 About Me
-- 🎓 4th year student – Faculty of Agriculture (Soils & Water Science)
+- 🎓 4th year student – Faculty of Agriculture Engineering
 - 💻 Junior Frontend Developer
 - 🌍 Interested in Web Development & UI Implementation
 - 🧠 Always learning and improving step by step
