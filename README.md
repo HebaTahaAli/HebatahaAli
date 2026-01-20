@@ -56,7 +56,7 @@ Currently focusing on **modern frontend development** and improving my real-worl
 - 🌐 WordPress Websites (Custom Themes)
 - ⚛️ React UI Projects
 - 📱 Responsive Landing Pages
-- 🎨 UI Components with Tailwind & Bootstrap
+- 🎨 UI Components with Tailwind & Bootstrap  
 
 _(Projects links will be added soon)_ 🚀
 
@@ -66,17 +66,16 @@ _(Projects links will be added soon)_ 🚀
 <details>
 <summary>Show Stats</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HebaTahaAli&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaTahaAli&layout=compact&theme=tokyonight)
 
 </details>
 
 ---
 
 ### 📫 Contact Me
-- 💼 LinkedIn: *(add your link)*
-- 🌐 Portfolio: *(coming soon)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/heba-taha-ali-663701217/
+- 📧 Email: hebatahaali22@gmail.com
 
 ---
 
