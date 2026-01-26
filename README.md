@@ -6,6 +6,10 @@ I’m passionate about building clean, responsive, and user-friendly web interfa
 Currently focusing on **modern frontend development** and improving my real-world project skills.
 
 ---
+📄 Resume
+🚀 Front-End Developer Resume  
+🔗 [View & Download CV]([PUT_CV_LINK_HERE](https://github.com/HebaTahaAli/Heba-Portfolio/blob/9f3ddd1a0e7938bf30a0642d4f8c21cd398b985b/HebaTahaFrontEnd.pdf))
+---
 
 ### 👩‍💻 About Me
 - 🎓 4th year student – Faculty of Agriculture Engineering
